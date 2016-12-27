@@ -1,2 +1,2 @@
-# SFML_Animation_1
+# SFML_Minescweeper
 A Simple SFML project intended to create simple animations
