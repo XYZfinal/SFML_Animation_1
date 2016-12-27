@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\xiang\documents\visual studio 2015\projects\improvedmines\improvedmines\source.cpp(7): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\xiang\documents\visual studio 2015\projects\improvedmines\improvedmines\source.cpp(69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ImprovedMines.vcxproj -> c:\users\xiang\documents\visual studio 2015\Projects\ImprovedMines\Debug\ImprovedMines.exe
+  ImprovedMines.vcxproj -> c:\users\xiang\documents\visual studio 2015\Projects\ImprovedMines\Debug\ImprovedMines.pdb (Partial PDB)
